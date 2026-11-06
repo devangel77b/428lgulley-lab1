@@ -1,0 +1,15 @@
+1. This is a review of the manuscript "Projectile motion of a marble shooter" by Gulley, Koduri, Perle, and Selvadhurai submitted as a research article to J S&E. I recommend major revisions / resubmission before it is ready for publishing.
+
+2. A more descriptive title indicative of the actual findings is needed. The abstract has several junk wording bits "The objective of this lab..." "it was found that there was" "optimum values in terms of..." when the authors should just word thigns simply and directly. It is unclear what the quadratic regression is.
+
+3. Introduction nees to cite things and set up specific hypotheses being tested. The two hypotheses given are trivial (45 or not symmetric or not) and do not connect with several different physics alternatives discussed in class. This is a physics article, not a statistics article. 
+
+4. Specifics of the key equipment such as source or supplier or specifications such as diameter and mass are not given. The methods are not repeatable as described. In the analysis methods the range equations discussed int he introduction are not quadratics so it is very unclear why the authors choosed to fit to quadratics during their data analysis.
+
+5. Results are given in inches. This is unacceptable - all units should be in SI m-kg-s units. It is unclear why auhtors are using quadratic regression for what should be a sine or nonlinear curve; the curve is not shown and the authors fixate on R^2 as the only statistic telling whether a model is a good fit or not?
+
+6. Figure 2 - what is that????
+
+7. in the discussion two new graphs purporting to be Tartaglia and Galileo are given but no source or citation is provided and no comparison with wjat was acutally measured is given. It does not follow logically from these that "our lab results fairly match..." - what is fairly match precisely???
+
+8. Scipy and numpy are cited as a single source but nowehre in the text does it identify how or why python was used, what specific routines were used, and wheteher or not the code is available anywhere. This means the work is not replicable and the MS should have been bench rejected.
